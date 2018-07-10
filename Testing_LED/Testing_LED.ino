@@ -1,3 +1,5 @@
+//The purpose of this file is to test the wiring of the Arduino, breadboard, and LEDs.
+
 #define Green 3
 #define Yellow1 4
 #define Yellow2 5
